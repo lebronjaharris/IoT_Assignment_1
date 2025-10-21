@@ -1,6 +1,8 @@
 1)I’ve learned how to program the ESP32 to communicate with MQTT, but I’m not 100% comfortable programming alone yet.
 2)I found it a bit difficult to understand each step of the programming and what all the lines do, especially the I2C connection parts.
-3)The only easy part I found to understand was the Mosquitto installation.
-4)I need to improve my understanding of programming and be able to read and understand code better, not only in Python but in Arduino as well.
-5)I could’ve done it faster and will try to be on time next time.
-
+3)I found the Mosquitto installation easy because it was straightforward. I just followed the guides and steps, and they were simple to understand.
+4)The only easy part I found to understand was the Mosquitto installation.
+5)I need to improve my understanding of programming and be able to read and understand code better, not only in Python but in Arduino as well.
+6)I could’ve done it faster and will try to be on time next time.
+7)I think I should study more and explore programming further so I can familiarize myself with the languages. This will help me improve my understanding 
+of Python and this class, so I don’t take up too much class time trying to understand the material and can finish the labs within the lab time.
